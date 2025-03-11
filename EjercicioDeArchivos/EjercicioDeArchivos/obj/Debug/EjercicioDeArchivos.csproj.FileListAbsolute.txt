@@ -1,0 +1,7 @@
+D:\alej_\proyectos en vb\c#\EjercicioDeArchivos\EjercicioDeArchivos\bin\Debug\EjercicioDeArchivos.exe.config
+D:\alej_\proyectos en vb\c#\EjercicioDeArchivos\EjercicioDeArchivos\bin\Debug\EjercicioDeArchivos.exe
+D:\alej_\proyectos en vb\c#\EjercicioDeArchivos\EjercicioDeArchivos\bin\Debug\EjercicioDeArchivos.pdb
+D:\alej_\proyectos en vb\c#\EjercicioDeArchivos\EjercicioDeArchivos\obj\Debug\EjercicioDeArchivos.csproj.AssemblyReference.cache
+D:\alej_\proyectos en vb\c#\EjercicioDeArchivos\EjercicioDeArchivos\obj\Debug\EjercicioDeArchivos.csproj.CoreCompileInputs.cache
+D:\alej_\proyectos en vb\c#\EjercicioDeArchivos\EjercicioDeArchivos\obj\Debug\EjercicioDeArchivos.exe
+D:\alej_\proyectos en vb\c#\EjercicioDeArchivos\EjercicioDeArchivos\obj\Debug\EjercicioDeArchivos.pdb
